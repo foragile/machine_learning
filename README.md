@@ -101,6 +101,21 @@ See More From:
 
 More you may follow with interest ：**[Youtube构造skn Vector](http://shataowei.com/2018/06/26/关于'Deep%20Neural%20Networks%20for%20YouTube%20Recommendations'的一些思考和实现/)**||**[N-Grams](https://github.com/sladesha/machine_learning/tree/master/n-gram)**
 
+****
+
+### 15.YMMNlpUtils
+Phone number analytical tools, design for get out the true phone number from digital mixed with dialect、chinese、special symbols
+
+`pip install YMMNlpUtils`  supported
+
+DEMO:
+```python
+from YMMNlpUtils import YMMNlpUtils
+obj = YMMNlpUtils(strict =True)
+obj.get_all_phone_number('买车，看到请联系178#洞拐洞事您您两3\～')
+Out[3]: '买车看到请联系17807040023'
+```
+
 # Requirements
 Python Environment.
 More details getting from single project requirement.
