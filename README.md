@@ -114,6 +114,8 @@ from YMMNlpUtils import YMMNlpUtils
 obj = YMMNlpUtils(strict =True)
 obj.get_all_phone_number('买车，看到请联系178#洞拐洞事您您两3\～')
 Out[3]: '买车看到请联系17807040023'
+obj.get_all_phone_number('买车，我有姗姗的电话，家住东洞门口，看到请联系178#洞拐姗姗您您两3\～')
+Out[4]: '买车我有姗姗的电话家住东洞门口看到请联系17807330023'
 ```
 
 # Requirements
