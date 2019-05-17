@@ -53,7 +53,7 @@ It means fast risk control with python.It's a lightweight tool that automatic re
 ](http://shataowei.com/2017/12/28/Kaggle-TianChi分类问题相关算法快速实现/)
 
 @bolg:[Kaggle&TianChi分类问题相关纯算法理论剖析
-](http://shataowei.com/2017/12/30/Kaggle-TianChi分类问题相关纯算法理论剖析/)
+](http://www.shataowei.com/2017/12/28/Kaggle&TianChi分类问题相关纯算法理论剖析/)
 #### 9.1 Data preprocessing before ensemble 
 #### 9.2 Case showed by stacking xgboost and logistic regression
 #### 9.3 Case showed by stacking gbdt and logistic regression
@@ -81,7 +81,7 @@ Following the paper 'Deep Neural Networks for YouTube Recommendations' , finishe
 
 @bolg：[利用DNN做推荐的实现过程中的总结](https://zhuanlan.zhihu.com/p/38638747)
 
-@bolg：[关于'Deep Neural Networks for YouTube Recommendations'的一些思考和实现](http://shataowei.com/2018/06/26/关于'Deep%20Neural%20Networks%20for%20YouTube%20Recommendations'的一些思考和实现/)
+@bolg：[关于'Deep Neural Networks for YouTube Recommendations'的一些思考和实现](http://www.shataowei.com/2018/06/26/关于Deep-Neural-Networks-for-YouTube-Recommendations的一些思考和实现/)
 
 ****
 
@@ -97,9 +97,9 @@ More you may follow with interest ：**[FM部分](https://github.com/sladesha/ma
 ### 14.GolVe_Classification
 See More From:
 
-@bolg：[GolVe向量化做文本分类](http://shataowei.com/2018/09/25/GolVe向量化做文本分类/)
+@bolg：[GolVe向量化做文本分类](http://www.shataowei.com/2018/09/25/GloVe向量化做文本分类/)
 
-More you may follow with interest ：**[Youtube构造skn Vector](http://shataowei.com/2018/06/26/关于'Deep%20Neural%20Networks%20for%20YouTube%20Recommendations'的一些思考和实现/)**||**[N-Grams](https://github.com/sladesha/machine_learning/tree/master/n-gram)**
+More you may follow with interest ：**[Youtube构造skn Vector](http://www.shataowei.com/2018/06/26/关于Deep-Neural-Networks-for-YouTube-Recommendations的一些思考和实现/)**||**[N-Grams](https://github.com/sladesha/machine_learning/tree/master/n-gram)**
 
 ****
 
