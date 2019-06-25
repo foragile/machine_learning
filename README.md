@@ -104,19 +104,16 @@ More you may follow with interest ：**[Youtube构造skn Vector](http://www.shat
 ****
 
 ### 15.YMMNlpUtils
-Phone number analytical tools, design for get out the true phone number from digital mixed with dialect、chinese、special symbols
+- Phone number analytical tools, design for get out the true phone number from digital mixed with dialect、chinese、special symbols
+- Adjust that is any phone communication intention inside the conversation, base model coming from the result translated by IFLYTEK
 
-`pip install YMMNlpUtils`  supported
+`pip install YMMNlpUtils==0.1.1`  supported
 
-DEMO:
-```python
-from YMMNlpUtils import YMMNlpUtils
-obj = YMMNlpUtils(strict =True)
-obj.get_all_phone_number('买车，看到请联系178#洞拐洞事您您两3\～')
-Out[3]: '买车看到请联系17807040023'
-obj.get_all_phone_number('买车，我有姗姗的电话，家住东洞门口，看到请联系178#洞拐姗姗您您两3\～')
-Out[4]: '买车我有姗姗的电话家住东洞门口看到请联系17807330023'
-```
+download directly supported, here's the url: [YMMNlpUtils 0.1.1](https://pypi.org/project/YMMNlpUtils/0.1.1/)
+
+- [DEMO1](http://www.shataowei.com/2019/05/13/中文语境下的手机号识别/)
+- [DEMO2](http://www.shataowei.com/2019/06/25/语音转译后是否文本意图识别-YMMNlpUtils/)
+
 
 # Requirements
 Python Environment.

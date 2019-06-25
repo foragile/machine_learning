@@ -4,19 +4,24 @@ from setuptools import setup, find_packages
 
 setup(
     name='YMMNlpUtils',
-    version='0.0.1',
+    version='0.1.1',
     description=(
-        'YMM nlp team copyright'
+        'YMM nlp team copyright,natural language model tools'
     ),
     author='sladesal',
     author_email='stw386@sina.com',
     maintainer='sladesal',
     maintainer_email='stw386@sina.com',
     license='MIT License',
-    packages=['YMMNlpUtils'],
+    packages=find_packages(),
+    package_data={'YMMNlpUtils': ['Data/*']},
     platforms=["all"],
     url='https://github.com/sladesha',
-    install_requires = ['pypinyin==0.35.2',],
+    install_requires=['pypinyin==0.35.2',
+                      'numpy==1.14.3',
+                      'pandas==0.22.0',
+                      'jieba==0.39'
+                      ],
     classifiers=[
         'Operating System :: OS Independent',
         'Intended Audience :: Developers',
