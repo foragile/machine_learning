@@ -114,6 +114,18 @@ download directly supported, here's the url: [YMMNlpUtils 0.1.1](https://pypi.or
 - [DEMO1](http://www.shataowei.com/2019/05/13/中文语境下的手机号识别/)
 - [DEMO2](http://www.shataowei.com/2019/06/25/语音转译后是否文本意图识别-YMMNlpUtils/)
 
+****
+
+### 16.Neologism
+
+- 已知词扩展
+    - text_base = Neologism(st=text, prev_cut=True, macth_posseg=\[\["a"], \["n"]])
+    - text_base.filter(frequency=0.001, freedom=0.5)
+- 新词发现    
+    - direct_search = Neologism(st=text, prev_cut=False)
+    - direct_search.filter(frequency=0.0001, polymerization=15, freedom=0.5))
+    
+
 
 # Requirements
 Python Environment.
