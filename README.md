@@ -127,7 +127,7 @@ download directly supported, here's the url: [YMMNlpUtils 0.1.1](https://pypi.or
     
 ### 17.Bayes_Optimizaion
 
-Bayes_Optimizaion based on GP + UCB.
+@bolg：[Bayes_Optimizaion based on GP + UCB](http://www.shataowei.com/2019/12/07/Auto-Machine-Learning初探/)
 
 # Requirements
 Python Environment.

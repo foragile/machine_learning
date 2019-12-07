@@ -70,12 +70,12 @@ class GP_Bayes_Optimizaion:
         for i in range(self.iteration_number):
             iteration_index += 1
 
-            # 5. Choose the best and compute to add in train dataset
+            # Choose the best and compute to add in train dataset
             train_features = np.vstack((train_features, x_max.reshape((1, -1))))
             train_negative_loss = np.append(train_negative_loss,
                                             self.target_loss_function(x_max[0]))
 
-            # 6. Re-compute gaussian process and acquistion function
+            # Re-compute gaussian process and acquistion function
             gp.fit(train_features, train_negative_loss)
 
             # Update maximum value
