@@ -125,7 +125,9 @@ download directly supported, here's the url: [YMMNlpUtils 0.1.1](https://pypi.or
     - direct_search = Neologism(st=text, prev_cut=False)
     - direct_search.filter(frequency=0.0001, polymerization=15, freedom=0.5))
     
+### 17.Bayes_Optimizaion
 
+Bayes_Optimizaion based on GP + UCB.
 
 # Requirements
 Python Environment.
