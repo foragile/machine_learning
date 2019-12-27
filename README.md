@@ -129,6 +129,10 @@ download directly supported, here's the url: [YMMNlpUtils 0.1.1](https://pypi.or
 
 @bolg：[Bayes_Optimizaion based on GP + UCB](http://www.shataowei.com/2019/12/07/Auto-Machine-Learning初探/)
 
+### 18.TFIDF
+
+- Java实现，Main为调用方式测试
+
 # Requirements
 Python Environment.
 More details getting from single project requirement.
