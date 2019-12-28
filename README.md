@@ -133,6 +133,11 @@ download directly supported, here's the url: [YMMNlpUtils 0.1.1](https://pypi.or
 
 - Java实现，Main为调用方式测试
 
+### 19.SimiHash
+
+- Java实现，Main为调用方式测试
+
+
 # Requirements
 Python Environment.
 More details getting from single project requirement.
