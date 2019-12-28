@@ -132,11 +132,17 @@ download directly supported, here's the url: [YMMNlpUtils 0.1.1](https://pypi.or
 ### 18.TFIDF
 
 - Java实现，Main为调用方式测试
+- NLP文本重要性计算
 
 ### 19.SimiHash
 
 - Java实现，Main为调用方式测试
+- NLP文本去重 
 
+### 20.BM25
+
+- Java实现，Main为调用方式测试
+- NLP文本重要性计算
 
 # Requirements
 Python Environment.
