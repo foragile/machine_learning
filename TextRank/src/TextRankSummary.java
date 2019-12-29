@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class TextRank {
+public class TextRankSummary {
     /*阻尼系数*/
     private double d = 0.85;
 
@@ -27,7 +27,7 @@ public class TextRank {
 
     BM25 bm25;
 
-    public TextRank(List<List<String>> docs) {
+    public TextRankSummary(List<List<String>> docs) {
         this.docs = docs;
         bm25 = new BM25(docs);
         D = docs.size();

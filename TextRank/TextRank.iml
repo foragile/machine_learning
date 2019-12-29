@@ -10,11 +10,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/hanlp-1/hanlp-1.7.5-release/hanlp-1.7.5.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/压缩包任务组_20191229_1820/hanlp-1.7.5-release/hanlp-1.7.5-release/hanlp-1.7.5.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="jar://$USER_HOME$/Downloads/hanlp-1/hanlp-1.7.5-release/hanlp-1.7.5-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/压缩包任务组_20191229_1820/hanlp-1.7.5-release/hanlp-1.7.5-release/hanlp-1.7.5-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>

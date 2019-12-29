@@ -144,6 +144,10 @@ download directly supported, here's the url: [YMMNlpUtils 0.1.1](https://pypi.or
 - Java实现，Main为调用方式测试
 - NLP文本重要性计算
 
+### 21.TextRank
+
+- TextRankSummary用来做摘要提取，衍生自PageRank的迭代思想
+
 # Requirements
 Python Environment.
 More details getting from single project requirement.
