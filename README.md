@@ -148,6 +148,7 @@ download directly supported, here's the url: [YMMNlpUtils 0.1.1](https://pypi.or
 ### 21.TextRank
 
 - TextRankSummary用来做摘要提取，衍生自PageRank的迭代思想
+- TextRankKeyWord用来做关键词提取，衍生自PageRank的迭代思想
 
 # Requirements
 Python Environment.
