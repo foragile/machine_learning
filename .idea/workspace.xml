@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3800d4b1-8d77-49ba-b73c-1de1921e2069" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/TextRank/.idea/uiDesigner.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/TextRank/.idea/misc.xml" afterPath="$PROJECT_DIR$/TextRank/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/TextRank/.idea/workspace.xml" afterPath="$PROJECT_DIR$/TextRank/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/TextRank/TextRank.iml" afterPath="$PROJECT_DIR$/TextRank/TextRank.iml" />
-      <change beforePath="$PROJECT_DIR$/TextRank/out/production/TextRank/Main.class" afterPath="$PROJECT_DIR$/TextRank/out/production/TextRank/Main.class" />
-      <change beforePath="$PROJECT_DIR$/TextRank/src/Main.java" afterPath="$PROJECT_DIR$/TextRank/src/Main.java" />
-      <change beforePath="$PROJECT_DIR$/TextRank/src/TextRank.java" afterPath="$PROJECT_DIR$/TextRank/src/TextRankSummary.java" />
     </list>
     <ignored path="TFIDF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,8 +28,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="525">
-                <caret line="148" column="41" lean-forward="true" selection-start-line="148" selection-start-column="41" selection-end-line="148" selection-end-column="41" />
+              <first_editor relative-caret-position="135">
+                <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -430,8 +422,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="525">
-            <caret line="148" column="41" lean-forward="true" selection-start-line="148" selection-start-column="41" selection-end-line="148" selection-end-column="41" />
+          <first_editor relative-caret-position="135">
+            <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
             <folding />
           </first_editor>
           <second_editor />

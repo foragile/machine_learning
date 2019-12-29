@@ -3,6 +3,7 @@ This project implement classic machine learning algorithms(ML). Motivations for 
 - Helping machine learning freshman have a better and deeper understanding of the basic algorithms and models in this field.
 - Providing the real-life and commercial executing methods in ML filed.
 - Keeping my Mathematics Theory and Coding ability fresh due to such cases. 
+- Improve my ability of Java and Python.
 
 # Overview
 ### 1.FM
