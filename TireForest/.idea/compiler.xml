@@ -22,11 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="TireForest" />
+        <module name="FirstVersion" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="TireForest" target="1.7" />
+      <module name="FirstVersion" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
